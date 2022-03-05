@@ -7,4 +7,6 @@ The purpose of this analysis is to determine if the surf and ice cream shop busi
 - Looking into the 97.5% range for the data for June, the temperature ranges from 65.2F to 84.7F, and in December ranges from 59.8F to 82.3F. That means that the coldest days of where the shop would not be doing well only occurs on about 2.5% of December, with the coldest days under 59.8 degrees only occurring around 1.25% of December. This is a good indicator that the surf and ice cream shop would do well year-round.
 ## Summary
 The ice cream shop is sustainable year-round because the temperature does not dramatically fluctuate over the year. In fact, the temperature is shown that ignoring outliers would range in considerable temperature with 97.5% of the days above 63.5F. Two additional queries are created based on the precipitation comparison between June and December and temperature measurement for each station. We can conclude that December has higher precipitation and USC00514830 has the highest temperature which means we might expect most sales generating from this station. 
+
+
 ![Capture](https://user-images.githubusercontent.com/67567087/156864308-13f4f24b-9580-438f-bfb7-f38dfba513d0.PNG)
